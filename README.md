@@ -10,5 +10,5 @@ https://colab.research.google.com/drive/1FA9fjAn-_xkMBt7eMzb9Fc47ilwoH_9F?usp=sh
 1. Please navigate to the green button that says "<> Code" in the upper right hand corner
 2. Download as ZIP
 3. Make sure breast-cancer.csv is in there!
-4. Open ASBME_logistic_regression.ipynb
+4. Open ASBME_student_ver.ipynb
 5. Use this to run cells and take personal notes while following along during the workshop
