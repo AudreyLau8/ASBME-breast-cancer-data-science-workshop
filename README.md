@@ -7,6 +7,7 @@ Adapted from Yasser H: Breast cancer logistic regression
 USC email required to access Colab:
 https://colab.research.google.com/drive/1FA9fjAn-_xkMBt7eMzb9Fc47ilwoH_9F?usp=sharing
 
+### Usage Instructions
 1. Please navigate to the green button that says "<> Code" in the upper right hand corner
 2. Download as ZIP
 3. Upload files to your Google Drive
